@@ -49,15 +49,7 @@ THEN I am taken to the corresponding section of the README
 * The generated README includes 1 badge that's specific to the repository.
 
 
-## Submission Requirements
 
-Because this is a CLI App, there will be no need to deploy it to Heroku. This time, though, you need to include a video showing us that you got the app working with no bugs. You should include a link to the video in your application's `README.md` file.
 
-* Create a `.gitignore` file and include `node_modules/` and `.DS_Store/`.
 
-* `node_modules` is not tracked and uploaded to GitHub. (Hint: It is easy if you create your `.gitignore` file before installing dependencies with npm.)
-
-* Repo **MUST** include `package.json` with required dependencies. (Hint: Run `npm init` when you first setup the project before installing any dependencies.)
-
-* Include a video of the typical user flow through your application. This includes views of the prompts and the responses after their selection.
 
